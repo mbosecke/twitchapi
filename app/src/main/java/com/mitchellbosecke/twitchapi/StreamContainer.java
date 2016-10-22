@@ -1,3 +1,5 @@
+package com.mitchellbosecke.twitchapi;
+
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 /**
