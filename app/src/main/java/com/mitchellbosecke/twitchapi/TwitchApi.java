@@ -45,6 +45,11 @@ public class TwitchApi {
         return performGet(StreamContainer.class, path).getStream();
     }
 
+    public Channel channel(String channel){
+        String path = "/channels/" + cleanChannelName(channel);
+        return performGet(Channel.class, path);
+    }
+
     private String cleanChannelName(String channel) {
         return channel.replaceAll("#", "");
     }
