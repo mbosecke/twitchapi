@@ -1,6 +1,11 @@
 .gradle
 build/
 
+# Intellij
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/libraries/*.xml
+
 # Ignore Gradle GUI config
 gradle-app.setting
 

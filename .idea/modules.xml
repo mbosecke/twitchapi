@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twitchapi.iml" filepath="$PROJECT_DIR$/.idea/modules/twitchapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twitchapi_main.iml" filepath="$PROJECT_DIR$/.idea/modules/twitchapi_main.iml" group="twitchapi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twitchapi_test.iml" filepath="$PROJECT_DIR$/.idea/modules/twitchapi_test.iml" group="twitchapi" />
+    </modules>
+  </component>
+</project>
